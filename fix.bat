@@ -1,6 +1,6 @@
 @echo off
 REM Set the file containing the commands
-set commandsFile="C:\Users\123\OneDrive\Namizje\Fixes\fix_commands.txt"
+set commandsFile="fix_commands.txt"
 
 REM Check if the commands file exists
 if not exist %commandsFile% (
